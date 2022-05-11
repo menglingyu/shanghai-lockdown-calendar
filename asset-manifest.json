@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/shanghai-lockdown-calendar/static/css/main.c45b421a.css",
+    "main.js": "/shanghai-lockdown-calendar/static/js/main.d0691da9.js",
+    "static/js/787.3602cda1.chunk.js": "/shanghai-lockdown-calendar/static/js/787.3602cda1.chunk.js",
+    "static/media/hesuan.jpg": "/shanghai-lockdown-calendar/static/media/hesuan.9235068be12aa4607043.jpg",
+    "static/media/lockdown.jpg": "/shanghai-lockdown-calendar/static/media/lockdown.a134527e4dbbdda1e137.jpg",
+    "static/media/logo.svg": "/shanghai-lockdown-calendar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shanghai-lockdown-calendar/index.html",
+    "main.c45b421a.css.map": "/shanghai-lockdown-calendar/static/css/main.c45b421a.css.map",
+    "main.d0691da9.js.map": "/shanghai-lockdown-calendar/static/js/main.d0691da9.js.map",
+    "787.3602cda1.chunk.js.map": "/shanghai-lockdown-calendar/static/js/787.3602cda1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c45b421a.css",
+    "static/js/main.d0691da9.js"
+  ]
+}
